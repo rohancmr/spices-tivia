@@ -1,0 +1,90 @@
+﻿Fennel,Saunf,Methi,Khameer
+Asafoetida,Heeng,Pudina,Ajwain
+Barley,Jau,laung,Til
+Basil,Tulsi,Asalee ka Beej,Khameer
+Bay Leaf,Tej Patta,Kalonji,Adrak
+Black Pepper,Kali Mirch,Safed Mirch,Amchoor
+Cardamom,Ilaichi,Khameer,Tulsi
+Carom Seed,Ajwain,Methi,Majeeth
+Cinnamon,Dalchini,Sirka,Lahsun
+Clove,laung,Jau,Anar Dana
+Coriander,Dhaniya,Haldi,Dhaniya
+Coriander Leaves,Hara Dhaniya,Sirka,Akhrot
+Cumin,Jeera,Lal Mirch,Sarson Ka Tel
+Curry Leaves,Kari Patte,Moong,Safed Mirch
+Dry Ginger,Sonth,Asalee ka Beej,Chirayata
+Fenugreek,Methi,Asalee ka Beej,Jaifal
+Garlic,Lahsun,Khaskhas,Jau
+Ginger,Adrak,Jau,Moong
+Green Gram,Moong,Lal Mirch,Kali Mirch
+Mango Powder,Amchoor,Hara Dhaniya,Sabudana
+Mint,Pudina,Khameer,Ilaichi
+Mustard,Sarson,Akhrot,Sabudana
+Mustard Oil,Sarson Ka Tel,Chirayata,Ramtil
+Nigella,Kalonji,Dhaniya,Afeem
+Nut,Akhrot,Hara Dhaniya,Afeem
+Nutmeg,Jaifal,Ramtil,laung
+Chilli,Mirch,Akhrot,Tej Patta
+Pomegranate Seed,Anar Dana,Chirayata,Amchoor
+Poppy,Afeem,laung,Haldi
+Red Chilli,Lal Mirch,Sirka,Jau
+Saffron,Kesar,Adrak,Ilaichi
+Sago,Sabudana,Dhaniya,Chirayata
+Sesame,Til,Afeem,Safed Mirch
+Turmeric,Haldi,Sarson Ka Tel,Tulsi
+Vinegar,Sirka,Moong,laung
+White Pepper,Safed Mirch,Adrak,Jaavitree
+Linseed,Asalee ka Beej,Anar Dana,Pudina
+Yeast,Khameer,Khaskhas,Ramtil
+Popy seed,Khaskhas,Safed Mirch,Asalee ka Beej
+Swertia,Chirayata,Kesar,Ajwain
+Mace,Jaavitree,Methi,Anar Dana
+Niger,Ramtil,Afeem,Moong
+Indian Madder,Majeeth,Akhrot,Heeng
+Gall-Nut,Majoofal,Kari Patte,Safed Mirch
+Liquorice,Mulaithi,Ilaichi,Ajwain
+Saunf,Fennel,Basil,Fenugreek
+Heeng,Asafoetida,Swertia,Fenugreek
+Jau,Barley,Nigella,Liquorice
+Tulsi,Basil,Asafoetida,Liquorice
+Tej Patta,Bay Leaf,Clove,Turmeric
+Kali Mirch,Black Pepper,Clove,Niger
+Ilaichi,Cardamom,Bay Leaf,Saffron
+Ajwain,Carom Seed,Garlic,Pomegranate Seed
+Dalchini,Cinnamon,Mustard,Mango Powder
+laung,Clove,Mango Powder,Dry Ginger
+Dhaniya,Coriander,Carom Seed,Turmeric
+Hara Dhaniya,Coriander Leaves,Green Gram,Gall-Nut
+Jeera,Cumin,Cardamom,Clove
+Kari Patte,Curry Leaves,Carom Seed,Red Chilli
+Sonth,Dry Ginger,Asafoetida,Green Gram
+Methi,Fenugreek,Dry Ginger,Mango Powder
+Lahsun,Garlic,Coriander Leaves,Indian Madder
+Adrak,Ginger,Swertia,Mace
+Moong,Green Gram,Mustard Oil,Poppy
+Amchoor,Mango Powder,Mace,Poppy
+Pudina,Mint,Mustard Oil,Black Pepper
+Sarson,Mustard,Coriander,Pomegranate Seed
+Sarson Ka Tel,Mustard Oil,Turmeric,Bay Leaf
+Kalonji,Nigella,Green Gram,Clove
+Akhrot,Nut,Yeast,Green Gram
+Jaifal,Nutmeg,Indian Madder,Liquorice
+Mirch,Chilli,Sesame,Niger
+Anar Dana,Pomegranate Seed,Mustard Oil,Nutmeg
+Afeem,Poppy,Liquorice,Mace
+Lal Mirch,Red Chilli,Black Pepper,Niger
+Kesar,Saffron,Fennel,Cardamom
+Sabudana,Sago,Linseed,Nutmeg
+Til,Sesame,Mace,Coriander
+Haldi,Turmeric,Mace,Bay Leaf
+Sirka,Vinegar,Bay Leaf,Sesame
+Safed Mirch,White Pepper,Cardamom,Mustard Oil
+Asalee ka Beej,Linseed,Indian Madder,Cardamom
+Khameer,Yeast,Mace,Fennel
+Khaskhas,Popy seed,Turmeric,Mint
+Chirayata,Swertia,Sesame,Curry Leaves
+Jaavitree,Mace,Bay Leaf,Popy seed
+Ramtil,Niger,Saffron,Cardamom
+Majeeth,Indian Madder,Mustard,Turmeric
+Majoofal,Gall-Nut,Dry Ginger,Sago
+Mulaithi,Liquorice,Gall-Nut,Clove

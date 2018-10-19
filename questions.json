@@ -1,0 +1,181 @@
+[{
+	"Majeeth": ["Indian Madder", "Mustard", "Turmeric"]
+}, {
+	"Asalee ka Beej": ["Linseed", "Indian Madder", "Cardamom"]
+}, {
+	"Methi": ["Fenugreek", "Dry Ginger", "Mango Powder"]
+}, {
+	"White Pepper": ["Safed Mirch", "Adrak", "Jaavitree"]
+}, {
+	"Heeng": ["Asafoetida", "Swertia", "Fenugreek"]
+}, {
+	"Barley": ["Jau", "laung", "Til"]
+}, {
+	"Pudina": ["Mint", "Mustard Oil", "Black Pepper"]
+}, {
+	"Akhrot": ["Nut", "Yeast", "Green Gram"]
+}, {
+	"Kalonji": ["Nigella", "Green Gram", "Clove"]
+}, {
+	"Carom Seed": ["Ajwain", "Methi", "Majeeth"]
+}, {
+	"Kari Patte": ["Curry Leaves", "Carom Seed", "Red Chilli"]
+}, {
+	"Mango Powder": ["Amchoor", "Hara Dhaniya", "Sabudana"]
+}, {
+	"Mirch": ["Chilli", "Sesame", "Niger"]
+}, {
+	"Fenugreek": ["Methi", "Asalee ka Beej", "Jaifal"]
+}, {
+	"Swertia": ["Chirayata", "Kesar", "Ajwain"]
+}, {
+	"Dhaniya": ["Coriander", "Carom Seed", "Turmeric"]
+}, {
+	"Popy seed": ["Khaskhas", "Safed Mirch", "Asalee ka Beej"]
+}, {
+	"Saunf": ["Fennel", "Basil", "Fenugreek"]
+}, {
+	"Jaifal": ["Nutmeg", "Indian Madder", "Liquorice"]
+}, {
+	"Khaskhas": ["Popy seed", "Turmeric", "Mint"]
+}, {
+	"Hara Dhaniya": ["Coriander Leaves", "Green Gram", "Gall-Nut"]
+}, {
+	"Afeem": ["Poppy", "Liquorice", "Mace"]
+}, {
+	"Gall-Nut": ["Majoofal", "Kari Patte", "Safed Mirch"]
+}, {
+	"Bay Leaf": ["Tej Patta", "Kalonji", "Adrak"]
+}, {
+	"Tej Patta": ["Bay Leaf", "Clove", "Turmeric"]
+}, {
+	"Poppy": ["Afeem", "laung", "Haldi"]
+}, {
+	"Coriander Leaves": ["Hara Dhaniya", "Sirka", "Akhrot"]
+}, {
+	"Green Gram": ["Moong", "Lal Mirch", "Kali Mirch"]
+}, {
+	"Coriander": ["Dhaniya", "Haldi", "Dhaniya"]
+}, {
+	"Cardamom": ["Ilaichi", "Khameer", "Tulsi"]
+}, {
+	"Amchoor": ["Mango Powder", "Mace", "Poppy"]
+}, {
+	"Vinegar": ["Sirka", "Moong", "laung"]
+}, {
+	"Saffron": ["Kesar", "Adrak", "Ilaichi"]
+}, {
+	"Kali Mirch": ["Black Pepper", "Clove", "Niger"]
+}, {
+	"Ilaichi": ["Cardamom", "Bay Leaf", "Saffron"]
+}, {
+	"Curry Leaves": ["Kari Patte", "Moong", "Safed Mirch"]
+}, {
+	"Anar Dana": ["Pomegranate Seed", "Mustard Oil", "Nutmeg"]
+}, {
+	"Asafoetida": ["Heeng", "Pudina", "Ajwain"]
+}, {
+	"Nutmeg": ["Jaifal", "Ramtil", "laung"]
+}, {
+	"Sirka": ["Vinegar", "Bay Leaf", "Sesame"]
+}, {
+	"Jeera": ["Cumin", "Cardamom", "Clove"]
+}, {
+	"Basil": ["Tulsi", "Asalee ka Beej", "Khameer"]
+}, {
+	"Indian Madder": ["Majeeth", "Akhrot", "Heeng"]
+}, {
+	"Dry Ginger": ["Sonth", "Asalee ka Beej", "Chirayata"]
+}, {
+	"Liquorice": ["Mulaithi", "Ilaichi", "Ajwain"]
+}, {
+	"Mace": ["Jaavitree", "Methi", "Anar Dana"]
+}, {
+	"Chilli": ["Mirch", "Akhrot", "Tej Patta"]
+}, {
+	"Mulaithi": ["Liquorice", "Gall-Nut", "Clove"]
+}, {
+	"Cumin": ["Jeera", "Lal Mirch", "Sarson Ka Tel"]
+}, {
+	"Majoofal": ["Gall-Nut", "Dry Ginger", "Sago"]
+}, {
+	"Nut": ["Akhrot", "Hara Dhaniya", "Afeem"]
+}, {
+	"Nigella": ["Kalonji", "Dhaniya", "Afeem"]
+}, {
+	"Sarson": ["Mustard", "Coriander", "Pomegranate Seed"]
+}, {
+	"Safed Mirch": ["White Pepper", "Cardamom", "Mustard Oil"]
+}, {
+	"Turmeric": ["Haldi", "Sarson Ka Tel", "Tulsi"]
+}, {
+	"Red Chilli": ["Lal Mirch", "Sirka", "Jau"]
+}, {
+	"Garlic": ["Lahsun", "Khaskhas", "Jau"]
+}, {
+	"Lahsun": ["Garlic", "Coriander Leaves", "Indian Madder"]
+}, {
+	"Yeast": ["Khameer", "Khaskhas", "Ramtil"]
+}, {
+	"Kesar": ["Saffron", "Fennel", "Cardamom"]
+}, {
+	"Mustard Oil": ["Sarson Ka Tel", "Chirayata", "Ramtil"]
+}, {
+	"Ginger": ["Adrak", "Jau", "Moong"]
+}, {
+	"Sarson Ka Tel": ["Mustard Oil", "Turmeric", "Bay Leaf"]
+}, {
+	"Sago": ["Sabudana", "Dhaniya", "Chirayata"]
+}, {
+	"Adrak": ["Ginger", "Swertia", "Mace"]
+}, {
+	"Haldi": ["Turmeric", "Mace", "Bay Leaf"]
+}, {
+	"Khameer": ["Yeast", "Mace", "Fennel"]
+}, {
+	"Fennel": ["Saunf", "Methi", "Khameer"]
+}, {
+	"Jau": ["Barley", "Nigella", "Liquorice"]
+}, {
+	"Sonth": ["Dry Ginger", "Asafoetida", "Green Gram"]
+}, {
+	"Sabudana": ["Sago", "Linseed", "Nutmeg"]
+}, {
+	"Mustard": ["Sarson", "Akhrot", "Sabudana"]
+}, {
+	"Cinnamon": ["Dalchini", "Sirka", "Lahsun"]
+}, {
+	"Clove": ["laung", "Jau", "Anar Dana"]
+}, {
+	"Mint": ["Pudina", "Khameer", "Ilaichi"]
+}, {
+	"Ramtil": ["Niger", "Saffron", "Cardamom"]
+}, {
+	"Til": ["Sesame", "Mace", "Coriander"]
+}, {
+	"laung": ["Clove", "Mango Powder", "Dry Ginger"]
+}, {
+	"Jaavitree": ["Mace", "Bay Leaf", "Popy seed"]
+}, {
+	"Lal Mirch": ["Red Chilli", "Black Pepper", "Niger"]
+}, {
+	"Dalchini": ["Cinnamon", "Mustard", "Mango Powder"]
+}, {
+	"Sesame": ["Til", "Afeem", "Safed Mirch"]
+}, {
+	"Ajwain": ["Carom Seed", "Garlic", "Pomegranate Seed"]
+}, {
+	"Moong": ["Green Gram", "Mustard Oil", "Poppy"]
+}, {
+	"Chirayata": ["Swertia", "Sesame", "Curry Leaves"]
+}, {
+	"Linseed": ["Asalee ka Beej", "Anar Dana", "Pudina"]
+}, {
+	"Black Pepper": ["Kali Mirch", "Safed Mirch", "Amchoor"]
+}, {
+	"Tulsi": ["Basil", "Asafoetida", "Liquorice"]
+}, {
+	"Pomegranate Seed": ["Anar Dana", "Chirayata", "Amchoor"]
+}, {
+	"Niger": ["Ramtil", "Afeem", "Moong"]
+}]
